@@ -1,6 +1,6 @@
 ## mExif
 
-mExif is a memory efficient TIFF, Exif and GPS tags scanner. You can use it for retrieving photo information before upload on client side.
+mExif is a memory efficient TIFF, Exif and GPS tags scanner. You can use it for retrieving photo information on client side before upload.
 
 usage:
 ```
